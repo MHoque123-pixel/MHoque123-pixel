@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on building apps that solve huge gaps in the human world.   👯 I’m looking to collaborate on startup ventures and impactful tech projects.   🤝 I’m looking for help with advanced product management and scalable software architecture.   🌱 I’m currently learning advanced problem-solving techniques and modern app development frameworks.   💬 Ask me about computer science, startups, and software project management.   ⚡ Fun fact: As a CSE student, I turn complex rea<br>l-world friction into seamless code.   
+🔭 I’m currently working on building apps that solve huge gaps in the human world.   
+👯 I’m looking to collaborate on startup ventures and impactful tech projects.   
+🤝 I’m looking for help with advanced product management and scalable software architecture.   
+🌱 I’m currently learning advanced problem-solving techniques and modern app development frameworks.   
+💬 Ask me about computer science, startups, and software project management.   
+⚡ Fun fact: As a CSE student, I turn complex real-world friction into seamless code.   
 
 
 ## 🌐 Socials:
